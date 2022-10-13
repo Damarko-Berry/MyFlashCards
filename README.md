@@ -10,8 +10,13 @@ for the sake of my sanity, MVP, and the trees. I've created a flash card maker.
 you can also create cards for each subjuct you might be studying. study guides are great, but note taking/flash card making cam be good for memorization.
 
 The program is about 20,480 bytes(20kb) and each card should be less than 2kb(252 bytes depending).
-#Download
+
+# Download
+
 Click Release on the right hand side.
-#Source Code
+
+# Source Code
+
 FlashCards.zip
+
 is a visual studio solution
