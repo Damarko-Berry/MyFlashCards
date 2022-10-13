@@ -20,3 +20,6 @@ Click Release on the right hand side.
 FlashCards.zip
 
 is a visual studio solution
+
+# Save Path
+%AppData%\Flash Cards
